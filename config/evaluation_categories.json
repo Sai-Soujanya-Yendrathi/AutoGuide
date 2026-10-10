@@ -1,0 +1,8 @@
+{
+  "single_hop": 15,
+  "multi_hop": 6,
+  "comparative": 4,
+  "temporal": 4,
+  "unanswerable": 8,
+  "ambiguous_adversarial": 3
+}

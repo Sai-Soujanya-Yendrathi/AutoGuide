@@ -1,0 +1,1 @@
+id,category,split,question,expected_answer,source_url,evidence_quote,relevant_chunk_ids,verified,actual_answer,correctness,citation_valid,refusal_correct,latency_ms,estimated_cost_usd,failure_category

@@ -1,0 +1,4 @@
+# Update with confirmed crawl-permitted NHTSA pages before running.
+https://www.nhtsa.gov/equipment/driver-assistance-technologies
+https://www.nhtsa.gov/recalls
+https://www.nhtsa.gov/ratings

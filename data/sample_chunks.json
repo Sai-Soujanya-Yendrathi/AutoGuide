@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-abs-1",
+    "title": "Demo: Anti-lock braking system",
+    "url": "",
+    "text": "An anti-lock braking system (ABS) helps prevent wheels from locking during hard braking so the driver can retain steering control. It does not guarantee a shorter stopping distance in all conditions.",
+    "score": 0.95,
+    "rerank_score": 0.91
+  },
+  {
+    "id": "demo-aeb-1",
+    "title": "Demo: Automatic emergency braking",
+    "url": "",
+    "text": "Automatic emergency braking (AEB) may detect an imminent collision and apply brakes automatically. Performance varies with road, weather and sensor conditions; drivers must remain attentive.",
+    "score": 0.90,
+    "rerank_score": 0.87
+  },
+  {
+    "id": "demo-bsm-1",
+    "title": "Demo: Blind spot monitoring",
+    "url": "",
+    "text": "Blind spot monitoring may alert drivers when another vehicle is detected alongside them. It does not replace mirror checks or looking over the shoulder.",
+    "score": 0.88,
+    "rerank_score": 0.82
+  }
+]
